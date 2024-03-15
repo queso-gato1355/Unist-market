@@ -1,0 +1,19 @@
+.site-top:after {
+    content: "";
+    display: block;
+    clear: both
+}
+
+.main-logo {
+    float: left;
+    width: 90%
+}
+
+.main-logo h1 {
+    text-align: center;
+}
+
+.left-top {
+    float: left;
+    width: 10%;
+}
